@@ -31,6 +31,8 @@ scala -cp out/ Test <test input files dir> <test output files dir>
 
 # Example run of tests
 ```
+scala -cp out/ Test src/test/inputs/ src/test/outputs
+
 Checking if C:\hg\scala_projects\marsrover\src\test\inputs\all_left.txt is equivalent to C:\hg\scala_projects\marsrover\src\test\outputs\all_left.txt
 0 0 N
 
