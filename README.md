@@ -1,14 +1,17 @@
 # Necessary prereqs
 Java:
-    java -version
-    java version "1.8.0_112"
-    Java(TM) SE Runtime Environment (build 1.8.0_112-b15)
-    Java HotSpot(TM) 64-Bit Server VM (build 25.112-b15, mixed mode)
+```
+java -version
+java version "1.8.0_112"
+Java(TM) SE Runtime Environment (build 1.8.0_112-b15)
+Java HotSpot(TM) 64-Bit Server VM (build 25.112-b15, mixed mode)
+```
 
 Scala:
-    scala -version
-    Scala code runner version 2.12.0 -- Copyright 2002-2016, LAMP/EPFL and Lightbend, Inc.
-
+```
+scala -version
+Scala code runner version 2.12.0 -- Copyright 2002-2016, LAMP/EPFL and Lightbend, Inc.
+```
 
 # Compiling the program
 
